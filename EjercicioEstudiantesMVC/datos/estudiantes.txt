@@ -1,0 +1,3 @@
+EST-01;Ana Perez;16
+EST-02;Luis Mora;12
+EST-03;Lisbeth Calvachi;17
